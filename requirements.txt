@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pycaw; platform_system == "Windows"
+comtypes; platform_system == "Windows"
+pyautogui
+SpeechRecognition
+pyaudio; platform_system == "Windows"
+pyttsx3
